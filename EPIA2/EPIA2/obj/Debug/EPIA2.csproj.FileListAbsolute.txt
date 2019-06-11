@@ -1,0 +1,14 @@
+C:\Users\lucas\source\repos\EPIA2\EPIA2\bin\Debug\EPIA2.exe.config
+C:\Users\lucas\source\repos\EPIA2\EPIA2\bin\Debug\EPIA2.exe
+C:\Users\lucas\source\repos\EPIA2\EPIA2\bin\Debug\EPIA2.pdb
+C:\Users\lucas\source\repos\EPIA2\EPIA2\obj\Debug\EPIA2.Form1.resources
+C:\Users\lucas\source\repos\EPIA2\EPIA2\obj\Debug\EPIA2.Properties.Resources.resources
+C:\Users\lucas\source\repos\EPIA2\EPIA2\obj\Debug\EPIA2.csproj.GenerateResource.cache
+C:\Users\lucas\source\repos\EPIA2\EPIA2\obj\Debug\EPIA2.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\EPIA2\EPIA2\obj\Debug\EPIA2.exe
+C:\Users\lucas\source\repos\EPIA2\EPIA2\obj\Debug\EPIA2.pdb
+C:\Users\lucas\source\repos\EPIA2\EPIA2\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\lucas\source\repos\EPIA2\EPIA2\bin\Debug\MimeKit.dll
+C:\Users\lucas\source\repos\EPIA2\EPIA2\bin\Debug\MimeKit.xml
+C:\Users\lucas\source\repos\EPIA2\EPIA2\obj\Debug\EPIA2.csproj.CopyComplete
+C:\Users\lucas\source\repos\EPIA2\EPIA2\obj\Debug\EPIA2.csprojAssemblyReference.cache
